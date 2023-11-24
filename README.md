@@ -2,7 +2,7 @@
 
 Trabajo del Sprint 2.3 de IT-Academy en la especialización de Node.js.<br>
 Aplicación memoize function utilizando TypeScript y el patrón MVC.<br>
-Incluye interfaz CLI, testing y frontend básico en HTML.
+Incluye interfaz CLI, testing y frontend básico en HTML e integración continua (CI) con GitHub Actions.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
