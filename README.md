@@ -1,4 +1,4 @@
-# Throttle Function
+# Memoize Function
 
 Trabajo del Sprint 2.3 de IT-Academy en la especialización de Node.js.<br>
 Aplicación memoize function utilizando TypeScript y el patrón MVC.<br>
