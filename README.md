@@ -13,14 +13,14 @@ Cuando la misma función se invoca con los mismos valores de entrada, en lugar d
 
 - La función debe ser implementada utilizando TypeScript y TDD.
 
-⭐ Nivel 1
+⭐ Nivel 1  
 Implementa una función memoize.
 Utiliza pruebas para verificar la funcionalidad de la función memoize.
 
-⭐⭐ Nivel 2
+⭐⭐ Nivel 2  
 Crea una interfaz de línea de comandos (CLI) para verificar la funcionalidad de la función memoize.
 
-⭐⭐⭐ Nivel 3
+⭐⭐⭐ Nivel 3  
 Crea un front-end para verificar la funcionalidad de la función memoize.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
