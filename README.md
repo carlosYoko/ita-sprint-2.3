@@ -5,6 +5,8 @@ Incluye interfaz CLI, testing, frontend básico en HTML e integración continua 
 
 ##### Trabajo del Sprint 2.3 de IT-Academy en la especialización de Node.js.<br>
 
+###### Descripción del ejercicio:
+
 La función memoize permite optimizar el rendimiento en funciones que tienen una gran complejidad computacional o se ejecutan con frecuencia. Consiste en guardar en una memoria caché (caché) los resultados de las llamadas anteriores y asociarlos con los valores de entrada correspondientes.
 
 Cuando la misma función se invoca con los mismos valores de entrada, en lugar de ejecutar toda la lógica de la función, primero se verifica si ya existe un resultado almacenado para esos valores y se devuelve directamente. Esto ahorra tiempo de cálculo y mejora el rendimiento de la función.
