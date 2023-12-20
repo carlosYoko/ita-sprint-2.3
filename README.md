@@ -1,7 +1,7 @@
 # Memoize Function
 
 Aplicación memoize function utilizando TypeScript y el patrón MVC.  
-Incluye interfaz CLI, testing y frontend básico en HTML e integración continua (CI) con GitHub Actions.
+Incluye interfaz CLI, testing, frontend básico en HTML e integración continua (CI) con GitHub Actions.
 
 ##### Trabajo del Sprint 2.3 de IT-Academy en la especialización de Node.js.<br>
 
